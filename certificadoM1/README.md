@@ -1,1 +1,1 @@
-<img src="![Alt text](image.png)">
+<img src="./assets/image.png">
